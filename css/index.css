@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+    text-align: center;
+    font-size: 150px;
+}
+body{
+    background-color: aquamarine
+}
+li{
+    border: 10px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 21px;
+    margin-left: 30px;
+    border-radius: 300px;
+    
+}
